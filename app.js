@@ -131,4 +131,4 @@ switch(temdeg){
     default:
         console.log("blmjgui");
         break;     
-}
+}f
